@@ -1,0 +1,1 @@
+export const DB_URL="mongodb+srv://poojamohan:PoojaAbhi@cluster0.ipbl9bk.mongodb.net/?retryWrites=true&w=majority"
